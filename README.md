@@ -1,5 +1,4 @@
 <h1 align="center">Hello 🌞, I'm Bilal</h1>
-<hr>
 <h3 align="center">Junior Web Developer</h3>
 
 <hr>
