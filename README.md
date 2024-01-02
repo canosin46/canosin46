@@ -1,5 +1,7 @@
+<div>
 <h1 align="center">Hello 🌞, I'm Bilal</h1>
 <h3 align="center">Junior Web Developer</h3>
+</div>
 <hr>
 
 - 🔭 I’m currently working on **website for my parents' buisness**
