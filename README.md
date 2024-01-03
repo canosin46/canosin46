@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/bilal-can-sinaci-c46**
 
-- ⚡ I am interested in **psychology, politics, singing, playing guitar, nature.**
+- ⚡ I am interested in **psychology, politics, singing, playing guitar, travelling and nature.**
 
 <p align="left">
 </p>
